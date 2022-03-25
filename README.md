@@ -39,8 +39,11 @@ from path import Path
 After cloning the repository, open the directory Starter Code and run the program by typing python venture_funding_with_deep_learning.ipynb
 
 ***Contributors***
+
 James Tagapan
+
 jtagapan@gmail.com
 
 License
+
 Licensed under the MIT License. Copyright 2020# Module_10_Challenge
